@@ -7,3 +7,5 @@ alias vim-noswap='vim -n -i NONE --cmd "setlocal noswapfile" --cmd "set nocompat
 # color
 autoload -U colors && colors
 export CLICOLOR="yes"
+
+
